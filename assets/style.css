@@ -6,10 +6,8 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-colour: blue;
+    background-color: blue;
     color:white;
-<<<<<<< Updated upstream
-=======
 }
 h1,
 h2 {
@@ -36,5 +34,4 @@ p {
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
->>>>>>> Stashed changes
 }
